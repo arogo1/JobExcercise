@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E8tNtbllQLNI4GKY69ljtRcWkZSUDETKtInyKtyd4PL4YWrJVr0nJ6j3At9pRqNBslktl67vgb1lL0mzxJbB9g==",
+  "success": true,
+  "projectFilePath": "/Users/arnesrogo/Desktop/Excersice/Excersice.csproj",
+  "expectedPackageFiles": [
+    "/Users/arnesrogo/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/arnesrogo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/arnesrogo/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
